@@ -3,5 +3,6 @@ Project 2 Back in Business!
 This is line 1.
 This is line 2.
 This is better line 3.
+Line 4 again!
 
 Now forked via git command line.
